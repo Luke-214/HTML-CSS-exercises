@@ -1,2 +1,2 @@
-# HTML-exercises
+# HTML&CSS-exercises
 Do some HTML coding regularly
